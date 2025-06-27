@@ -11,4 +11,6 @@ A comprehensive data analysis of Blinkit quick commerce application. An interact
 https://1drv.ms/x/c/3bab2fa4236113ed/Eb1xz1fgYXJIujkPHf8QuwkBmzxu6dBUhFVFB0RT7ybkUw?e=uKDlHB
 
 ### Dashboard prepared (using MS Excel):
-https://1drv.ms/x/c/3bab2fa4236113ed/Eb1xz1fgYXJIujkPHf8QuwkBmzxu6dBUhFVFB0RT7ybkUw?e=bK65Up
+[https://1drv.ms/x/c/3bab2fa4236113ed/Eb1xz1fgYXJIujkPHf8QuwkBmzxu6dBUhFVFB0RT7ybkUw?e=bK65Up]
+
+![Screenshot 2025-06-27 204925](https://github.com/user-attachments/assets/6a64b434-429d-4acb-9f06-92b5a24b6f3d)
